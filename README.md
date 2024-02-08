@@ -1,4 +1,4 @@
-# New York House Price Prediction
+# New York Housing Market Regression Analysis
 
 ## Overview
 This project focuses on predicting the prices of houses in New York using various characteristics, including the number of bedrooms, bathrooms, and the square footage of the property. By conducting exploratory data analysis (EDA) and applying linear regression modeling, we aim to uncover the key factors influencing house prices in New York. Our goal is to develop a predictive model capable of estimating house prices based on these determinants.
